@@ -6,7 +6,7 @@
   <Container fluid={true}>
     <div class="d-flex align-items-center justify-content-between small">
       <div class="text-muted">
-        Made with love by
+        Made with love and peace by
         <a href="https://github.com/cyrus43">Cyrus</a>
         
       </div>
