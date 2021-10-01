@@ -6,7 +6,7 @@
   import CardText from "sveltestrap/src/CardText.svelte";
 </script>
 
-<h1 class="mt-4">Sidenav Light</h1>
+<h1 class="mt-4">Sidenav Light Alone</h1>
 
 <Breadcrumb class="mb-4">
   <BreadcrumbItem>
