@@ -75,5 +75,5 @@ Sapper uses Rollup or webpack to provide code-splitting and dynamic imports, as 
 
 ## Production mode and deployment
 
-To start a production version of your app, run `npm run build && npm start`. This will disable live reloading, and activate the appropriate bundler plugins.
+Start a production version of your app, run `npm run build && npm start`. This will disable live reloading, and activate the appropriate bundler plugins.
 
