@@ -6,6 +6,8 @@
   export let segment;
 </script>
 
+//svelte binding 
+
 {#if segment === 'login'}
   <Login />
 {:else if segment === 'register'}
