@@ -59,7 +59,7 @@
           <DropdownItem divider />
           <DropdownItem>
             <a class="dropdown-item" href="pages/authentication/login">
-              Logout
+              Logout.
             </a>
           </DropdownItem>
         </DropdownMenu>
