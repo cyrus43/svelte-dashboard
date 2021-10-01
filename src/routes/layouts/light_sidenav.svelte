@@ -5,6 +5,7 @@
   import CardBody from "sveltestrap/src/CardBody.svelte";
   import CardText from "sveltestrap/src/CardText.svelte";
 </script>
+//sidenav head changes
 
 <h1 class="mt-4">Sidenav Light Alone</h1>
 
